@@ -1,9 +1,12 @@
 {
-    "address": "localhost",
+    "address": "auto",
+    "ip_type": "auto",
     "port": "80",
     "debug": true,
     "template_path": "pages",
     "static_url_path": "/static",
     "static_folder": "static",
-    "version_local": "0.0"
+    "version_local": "0.0",
+    "lts": false,
+    "oss": true
 }
