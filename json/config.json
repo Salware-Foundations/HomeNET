@@ -1,0 +1,8 @@
+{
+    "upload_size": 512,
+    "upload_path": "D:/",
+    "file_extensions": [".jpg", ".png", ".gif",".txt", ".png", ".jpg", ".jpeg", ".pdf", ".xls", ".xlsx", ".odt", ".dotx", ".csv", ".pptx", ".webp", ".zip", ".tar", ".7z", ".gz"],
+    "hostname": "SecureCloud",
+    "theme": "dark",
+    "language": "de"
+}
