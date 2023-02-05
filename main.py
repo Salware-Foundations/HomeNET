@@ -31,8 +31,8 @@ debug_mode                      = json.load(open("./json/runtime.json"))["debug"
 upload_size                     = json.load(open("./json/config.json"))["upload_size"]
 
 github_release                  = "github.com"
-build_date                      = "2022-04-02"
-build_version                   = "2202.04"
+build_date                      = "2022-05-02"
+build_version                   = "2202.05"
 version                         = json.load(open("./json/runtime.json"))["version_local"]
 codename                        = "Vanilla Cake"
 edition_version                 = "Developer Preview"
