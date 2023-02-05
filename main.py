@@ -7,7 +7,6 @@
     
 '''
 
-import json
 from flask import Flask
 from flask import *
 
@@ -18,6 +17,7 @@ from functions import *
 
 import time
 import os
+import json
 
 # Global Variables
 template_path                   = json.load(open("./json/runtime.json"))["template_path"]
