@@ -28,7 +28,6 @@ ip_type                         = json.load(open("./json/runtime.json"))["ip_typ
 port                            = json.load(open("./json/runtime.json"))["port"]
 debug_mode                      = json.load(open("./json/runtime.json"))["debug"]
 
-
 upload_size                     = json.load(open("./json/config.json"))["upload_size"]
 
 github_release                  = "github.com"
